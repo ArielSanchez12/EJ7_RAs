@@ -12,7 +12,7 @@ public class AlcanceH {
     }
 
     //Setters y getters
-    /*
+
     public double getAcelVerti() {
         return acelVerti;
     }
@@ -69,7 +69,7 @@ public class AlcanceH {
         this.alcanceH = alcanceH;
     }
 
-     */
+
 
     //Metodos
     public double VelocidadInicialX(double velocidadInicial, double angulo) {
